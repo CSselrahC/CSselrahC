@@ -7,6 +7,8 @@
       Facebook: https://www.facebook.com/CharlesSerranoCarreon
       Instagram: https://www.instagram.com/charlesscarreon
       Twitter: https://twitter.com/noerracselrahc
+      LinkedIn: https://www.linkedin.com/in/charlesscarreon/
+      Google Developer: https://g.dev/CharlesCarreon
 
 <!---
 CSselrahC/CSselrahC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
