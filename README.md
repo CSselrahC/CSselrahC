@@ -5,9 +5,9 @@
 - 📫 How to reach me:
 
       Facebook: https://www.facebook.com/CharlesSerranoCarreon
-      Instagram: https://www.instagram.com/charlesscarreon
+      Instagram: https://www.instagram.com/csharlec
       Twitter: https://twitter.com/noerracselrahc
-      LinkedIn: https://www.linkedin.com/in/charlesscarreon/
+      LinkedIn: https://www.linkedin.com/in/charlesscarreon
       Google Developer: https://g.dev/CharlesCarreon
 
 <!---
