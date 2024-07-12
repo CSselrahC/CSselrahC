@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
-      Facebook: https://www.facebook.com/CharlesSerranoCarreon
+      Facebook: https://www.facebook.com/csharlec
       Instagram: https://www.instagram.com/csharlec
       Twitter: https://twitter.com/noerracselrahc
       LinkedIn: https://www.linkedin.com/in/charlesscarreon
