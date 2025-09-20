@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @CSselrahC
 - 👀 I’m interested in computers.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
       Facebook: https://www.facebook.com/csharlec
-      Instagram: https://www.instagram.com/csharlec
-      Twitter: https://twitter.com/noerracselrahc
       LinkedIn: https://www.linkedin.com/in/charlesscarreon
       Google Developer: https://g.dev/CharlesCarreon
 
