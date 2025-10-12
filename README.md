@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CSselrahC
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning Game Development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
       Facebook: https://www.facebook.com/csharlec
