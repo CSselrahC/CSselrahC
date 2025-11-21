@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @CSselrahC
-- 👀 I’m interested in computers.
-- 🌱 I’m currently learning Game Development.
-- 📫 How to reach me:
+- Hi, I’m Charles Serrano Carreon, I am a 3rd Year Bachelor Science in Computing Science student from Pamantasan ng Cabuyao.
+- I’m interested in computers.
+- I’m currently learning Game Development.
+- My website is: https://charlescarreon.vercel.app/
+- How to reach me:
 
       Facebook: https://www.facebook.com/csharlec
       LinkedIn: https://www.linkedin.com/in/charlesscarreon
