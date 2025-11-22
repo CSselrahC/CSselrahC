@@ -1,4 +1,4 @@
-- Hi, I’m Charles Serrano Carreon, I am a 3rd Year Bachelor Science in Computing Science student from Pamantasan ng Cabuyao.
+- Hi, I’m Charles Serrano Carreon, I am a 3rd Year Bachelor of Science in Computer Science student from Pamantasan ng Cabuyao.
 - I’m interested in computers.
 - I’m currently learning Game Development.
 - My website is: https://charlescarreon.vercel.app/
